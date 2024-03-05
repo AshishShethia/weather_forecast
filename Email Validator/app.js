@@ -5,7 +5,7 @@ const cors = require("cors");
 const app = express();
 
 // connect to mongodb with database name "postmanapi"
-mongoose.connect("mongodb+srv://ashishShethia:Ashish1410@cluster0.mhi9gdb.mongodb.net/?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://shethia10:Ashish1410@cluster0.fggxf1p.mongodb.net/", {
   useNewUrlParser: true,
 
   useUnifiedTopology: true,
